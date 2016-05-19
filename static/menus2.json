@@ -1,0 +1,494 @@
+[
+
+{
+        "label": "Produccion",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Valor Agregado Censal Bruto",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          {
+            "label": "Participacion en el PIB",
+            "url": [
+              "#"
+            ],
+            "items": [
+              {
+                "label": "Participacion en el PIB",
+                "url": [
+                  "#"
+                ]
+              },
+              {
+                "label": "Participacion en el PIB por Sector",
+                "url": [
+                  "#"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "PIB per capita",
+            "url": [
+              "#"
+            ]
+          },
+          {
+            "label": "ITAEE DF",
+            "url": [
+              "#"
+            ],
+            "items": [
+              {
+                "label": "ITAEE Distrito Federal",
+                "url": [
+                  "#"
+                ]
+              },
+              {
+                "label": "ITAEE Distrito Federal por sector",
+                "url": [
+                  "#"
+                ]
+              },
+              {
+                "label": "Historico IGAE, ITAEE y PIB",
+                "url": [
+                  "#"
+                ]
+              },
+              {
+                "label": "Grafica Variacion ITAEE",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver periodos",
+                    "url": [
+                      "/ap1Ind4dHist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind4dHist/create"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Actividad Industrial ",
+            "url": [
+              "#"
+            ],
+            "items": [
+              {
+                "label": "Actividad industrial por entidad federativa",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver periodos",
+                    "url": [
+                      "/ap1Ind5aHist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind5aHist/create"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Actividad industrial DF por sector",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver Periodos",
+                    "url": [
+                      "/ap1Ind52Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind5-2/historico"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Construccion",
+            "url": [
+              "#"
+            ],
+            "items": [
+              {
+                "label": "Valor de Producción en Construcciion",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver Periodos",
+                    "url": [
+                      "/ap1Ind61Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind6-1Hist/create"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Valor de producción en construcción DF por tipo de obra y sector",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver Periodos",
+                    "url": [
+                      "/ap1Ind62Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind6-2Hist/create"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Sector Manufacturero",
+            "url": [
+              "#"
+            ],
+            "items": [
+              {
+                "label": "Valor de Producción de productos elaborados",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver periodos",
+                    "url": [
+                      "/ap1Ind71Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind7-1Hist/create"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Producción manufacturera por subsector",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver periodos",
+                    "url": [
+                      "/ap1Ind72Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "/ap1Ind7-2Hist/create"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Exportaciones del sector manufacturero",
+                "url": [
+                  "#"
+                ],
+                "items": [
+                  {
+                    "label": "Ver periodos",
+                    "url": [
+                      "/ap1Ind73Hist"
+                    ]
+                  },
+                  {
+                    "label": "+ Agregar Nuevo",
+                    "url": [
+                      "ap1Ind7-3Hist/create"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Exportaciones del DF por subsector",
+                "url": [
+                  "#"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Cuentas de Producción en el sector servicios",
+            "url": [
+              "#"
+            ]
+          },
+          {
+            "label": "Estadísticas de venta de enegía eléctrica ",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+{
+        "label": "Precios",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Empleo",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Salario e Ingresos",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Empresas",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Inversión",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Finanzas",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Comercio",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Turismo",
+        "url": [
+          "#"
+        ],
+        "items": [
+          {
+            "label": "Resumen",
+            "url": [
+              "/site/main/10"
+            ]
+          },
+          {
+            "label": "Indice general de precios al consumidor",
+            "url": [
+              "/site/main/11"
+            ]
+          },
+          
+          {
+            "label": "Inflación",
+            "url": [
+              "#"
+            ]
+          }
+        ]
+      }
+
+]

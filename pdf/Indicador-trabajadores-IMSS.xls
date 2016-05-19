@@ -1,0 +1,104 @@
+<br><br><div class="col-md-3">
+            <h2 class="indicadorTitulo">PRODUCCIÓN</h2>
+            </div><div class="table-responsive">
+
+        <div class="col-md-12 text-center">
+                <h3>Trabajadores asegurados en el IMSS</h3>
+                <h3>Promedio enero a diciembre de 2014</h3>
+                
+               
+        </div><table class="table600 table-bordered table-condensed defaultTable">
+    <tr class="rEven">
+        <td>Entidad</td>
+        <td>Trabajadores asegurados en el IMSS</td>
+        <td>Variación anual respecto al mismo periodo del 2013(%)</td>
+        <td>% de registros respecto al nacional</td>
+    </tr><tr class="rEven"><td>Coahuila</td><td class="data">662,696</td>
+        <td class="data">3.69</td>
+        <td class="data">3.90</td>
+        
+       
+    </tr><tr class="rEven"><td>Distrito Federal</td><td class="data">2,978,078</td>
+        <td class="data">4.17</td>
+        <td class="data">17.53</td>
+        
+       
+    </tr><tr class="rEven"><td>Jalisco</td><td class="data">1,432,723</td>
+        <td class="data">3.64</td>
+        <td class="data">8.43</td>
+        
+       
+    </tr><tr class="rEven"><td>Estado de México</td><td class="data">1,351,056</td>
+        <td class="data">1.55</td>
+        <td class="data">7.95</td>
+        
+       
+    </tr><tr class="rEven"><td>Nuevo León</td><td class="data">1,347,366</td>
+        <td class="data">3.75</td>
+        <td class="data">7.93</td>
+        
+       
+    </tr><tr class="rEven"><td>Puebla</td><td class="data">508,133</td>
+        <td class="data">2.86</td>
+        <td class="data">2.99</td>
+        
+       
+    </tr><tr class="rEven"><td>Veracruz</td><td class="data">746,377</td>
+        <td class="data">0.55</td>
+        <td class="data">4.39</td>
+        
+       
+    </tr><tr class="rEven"><td>Nacional</td><td class="data">16,990,724</td>
+        <td class="data">3.54</td>
+        <td class="data">100.00</td>
+        
+       
+    </tr></table>
+    <div class="table_explanation">
+       <p><p>Fuente: Secretar&iacute;a del Trabajo y Previsi&oacute;n Social.</p>
+</p>
+    </div>    
+  
+
+    <div class="col-md-12 text-center">
+      <h3>Creación de empleos formales registrados en el IMSS</h3>
+     
+    </div>
+
+
+<table class="table600 table-bordered table-condensed defaultTable">
+    <tr class="rEven">
+        <td>Entidad</td>
+        <td>Registro de nuevos empleos</td>
+        <td>% de registros respecto al nacional</td>
+        
+    </tr><tr class="rEven"><td>Coahuila</td><td class="data">33,051</td>
+        <td class="data">4.6</td>
+        
+    </tr> <tr class="rEven"><td>Distrito Federal</td><td class="data">136,267</td>
+        <td class="data">19.1</td>
+        
+    </tr> <tr class="rEven"><td>Jalisco</td><td class="data">66,092</td>
+        <td class="data">9.2</td>
+        
+    </tr> <tr class="rEven"><td>Estado de México</td><td class="data">36,997</td>
+        <td class="data">5.2</td>
+        
+    </tr> <tr class="rEven"><td>Nuevo León</td><td class="data">57,864</td>
+        <td class="data">8.1</td>
+        
+    </tr> <tr class="rEven"><td>Puebla</td><td class="data">21,781</td>
+        <td class="data">3.0</td>
+        
+    </tr> <tr class="rEven"><td>Veracruz</td><td class="data">2,876</td>
+        <td class="data">0.4</td>
+        
+    </tr> <tr class="rEven"><td>Nacional</td><td class="data">714,526</td>
+        <td class="data">100.0</td>
+        
+    </tr> </table>
+   </div><div class="table_explanation">
+        <p></p>
+        <p><p>Fuente: Secretar&iacute;a del Trabajo y Previsi&oacute;n Social.</p>
+</p>
+</div> 
